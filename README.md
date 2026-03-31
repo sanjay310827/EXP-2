@@ -194,7 +194,7 @@ open:
 
 load:
 
-<img width="714" height="629" alt="image" src="https://github.com/user-attachments/assets/56009a05-58ae-49fa-916f-6c09fe119913" />
+![WhatsApp Image 2026-03-19 at 3 46 46 PM](https://github.com/user-attachments/assets/3e6e3693-5a65-45d8-b3da-cb2c94b316f2)
 
 
 
